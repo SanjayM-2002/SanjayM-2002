@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
 
-
-
-<body>
   
   <h1 align="center">Hi 👋, I'm Sanjay</h1>
   <h3 align="center">A passionate Full Stack Web developer</h3>
@@ -139,7 +134,3 @@
   - ⚡ Fun fact: ...
   -->
 
-  <script src="script.js"></script>
-</body>
-
-</html>
