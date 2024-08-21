@@ -4,12 +4,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>replit</title>
+  <title></title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
-  Hello world
+  
   <h1 align="center">Hi 👋, I'm Sanjay</h1>
   <h3 align="center">A passionate Full Stack Web developer</h3>
 
