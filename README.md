@@ -10,6 +10,27 @@
 - 🏆 LeetCode **Knight** (rating 2018, top 2.3%)
 - 📫 Reach me at **sanjaym2202@gmail.com**
 
+<h3 align="left">🚀 Featured Projects:</h3>
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[LiteCode](https://github.com/SanjayM-2002/litecode)** | LeetCode-style coding judge. Submissions are graded asynchronously by an **in-house Go judge** that runs untrusted code inside `isolate` (namespaces + cgroup v2), with batched test-case execution. Also has premium AI hints/roasts and Razorpay subscriptions driven by idempotent webhooks | NestJS · GraphQL · Go · RabbitMQ · PostgreSQL · Prisma · Redis · React 19 · Turborepo |
+| **[Meet Random](https://github.com/SanjayM-2002/meet-random)** | Omegle-style random video chat. A Socket.IO server pairs strangers from a matchmaking queue into rooms and relays WebRTC offer/answer signaling between them | TypeScript · Socket.IO · WebRTC · React · Node.js |
+| **[Invoice & Payment Service](https://github.com/SanjayM-2002/invoice-payment-service)** | Billing backend covering invoices, payments through a mock PSP, an invoice state machine, signed webhooks with retries/backoff, and hashed API keys | Rust · Axum · SQLx · PostgreSQL · Docker |
+
+<h3 align="left">🧪 Built From Scratch (Experiments & Deep Dives):</h3>
+
+Side projects where I rebuild core systems myself to understand how they work.
+
+| Project | What I built | Concepts |
+|---|---|---|
+| **[prismo](https://github.com/SanjayM-2002/prismo)** | A **Prisma-inspired ORM for Go**. It parses a `.prisma`-style schema, diffs it against MySQL (`db push` with data-loss protection) and generates a type-safe Go client | Parsers · schema diffing · code generation |
+| **[chess-engine](https://github.com/SanjayM-2002/chess-engine)** | A thread-safe chess engine with full rules (castling, en passant, pins), validated with perft. Adds an alpha-beta AI, a multiplayer lobby, live spectators and a TCP server. Standard library only | Move generation · alpha-beta search · concurrency (`-race` tested) |
+| **[probabloom](https://github.com/SanjayM-2002/probabloom)** | **Bloom filters** from first principles for "is this username taken?" checks. Implements different strategies (standard, counting, partitioned, cache-line blocked, scalable) with multiple hashing algorithms (FNV-1a, xxHash64, MurmurHash3), and supports both in-memory and Redis (RedisBloom) storage | Probabilistic data structures · hashing · cache locality |
+| **[chat-filter](https://github.com/SanjayM-2002/chat-filter)** | Real-time **profanity filter for chat streams** built on a **trie**. Catches leetspeak (`$h1t`) and separator tricks (`s.h.i.t`), and serves streams over a WebSocket hub | Tries · text normalization · WebSockets |
+| **[reverse-proxy-scratch](https://github.com/SanjayM-2002/reverse-proxy-scratch)** | Reverse proxies built from scratch, starting with an **L4 TCP load balancer** (round robin, weighted RR, least connections) | Networking · load balancing |
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sanjay-m-74a123240/" target="_blank" rel="noreferrer">
