@@ -7,7 +7,8 @@
 
 - 💼 Currently **SDE-2 at Swivl**, designing backend microservices, payment systems, third-party integrations, and event-driven architectures
 - 🎓 B.E. (Hons.), **BITS Pilani**
-- 🏆 LeetCode **Knight** (rating 2018, top 2.3%)
+- 🏆 **Knight** at LeetCode  (rating 2018, top 2.3%)
+- 🏆 **Specialist** at Codeforces (rating 1437)
 - 📫 Reach me at **sanjaym2202@gmail.com**
 
 <h3 align="left">🚀 Featured Projects:</h3>
